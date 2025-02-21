@@ -1,0 +1,5 @@
+streamlit 
+pandas 
+transformers
+sqlite3
+hashlib
